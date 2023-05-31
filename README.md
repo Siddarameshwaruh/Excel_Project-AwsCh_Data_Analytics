@@ -13,10 +13,15 @@
   9. Dynamic country level sales report
   10. Which products to discontinue
 
+
+## Dynamic country level sales report
+
+![2023-05-31T13_52_07](https://github.com/Siddarameshwaruh/Excel_Project-AwsCh_Data_Analytics/assets/127327782/974432d0-4f9f-4cb9-9657-4a41eae07075)
+
+
 ## Excel features learnt : 
 
-  1. Using Tables
-  2. Pivot Tables & Power Pivot measures
-  3. Conditional formatting
-  4. Charts
-  5. Data Validation
+  1. Pivot Tables & Power Pivot measures
+  2. Conditional formatting
+  3. Charts
+  4. Data Validation
