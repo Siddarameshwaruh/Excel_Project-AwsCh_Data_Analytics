@@ -2,16 +2,16 @@
 
 ## Task : 
 
-  1. Descriptive statistics in Excel
-  2. Exploratory Data Analysis (EDA) with conditional formatting
-  3. Sales by Country report with formulas
-  4. Sales by Country report with Pivots
-  5. Top 5 products with $ per unit
-  6. Anomaly detection in your data
-  7. Best in category analysis
-  8. Profit analysis (combining two tables)
-  9. Dynamic country level sales report
-  10. Which products to discontinue
+-  Descriptive statistics in Excel
+-  Exploratory Data Analysis (EDA) with conditional formatting
+-  Sales by Country report with formulas
+-  Sales by Country report with Pivots
+-  Top 5 products with $ per unit
+-  Anomaly detection in your data
+-  Best in category analysis
+-  Profit analysis (combining two tables)
+-  Dynamic country level sales report
+-  Which products to discontinue
 
 
 ## Dynamic country level sales report
@@ -20,7 +20,7 @@
 
 ## Excel features learnt : 
 
-  1. Pivot Tables & Power Pivot measures
-  2. Conditional formatting
-  3. Charts
-  4. Data Validation
+-  Pivot Tables & Power Pivot measures
+-  Conditional formatting
+-  Charts
+-  Data Validation
