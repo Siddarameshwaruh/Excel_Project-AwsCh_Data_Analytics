@@ -18,7 +18,6 @@
 
 ![2023-05-31T13_52_07](https://github.com/Siddarameshwaruh/Excel_Project-AwsCh_Data_Analytics/assets/127327782/974432d0-4f9f-4cb9-9657-4a41eae07075)
 
-
 ## Excel features learnt : 
 
   1. Pivot Tables & Power Pivot measures
