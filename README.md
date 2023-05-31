@@ -1,5 +1,7 @@
 # Awsome Chocolates Data Analytics
 
+A chocolates manufacturing firm
+
 ## Task : 
 
 -  Descriptive statistics in Excel
