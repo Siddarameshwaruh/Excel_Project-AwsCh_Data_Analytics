@@ -1,6 +1,6 @@
 # Awsome Chocolates Data Analytics
 
-A chocolates manufacturing firm
+Awesome Chocolates is a company that specializes in the manufacturing of high-quality chocolates.
 
 ## Task : 
 
